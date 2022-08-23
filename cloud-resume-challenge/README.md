@@ -16,6 +16,8 @@ az storage blob upload-batch -s ./public -d '$web' --account-name <storage accou
 
 ## Counter
 
+Run `func init --worker-runtime python`
+
 - <https://medium.com/@codefoxx/how-to-count-the-number-of-visits-on-your-website-with-html-css-javascript-and-the-count-api-2f99b42b5990>
 - <https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python>
 - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?tabs=in-process&pivots=programming-language-csharp>
