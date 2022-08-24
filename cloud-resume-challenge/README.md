@@ -28,4 +28,3 @@ Run `func init --worker-runtime python`
 
 - <https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=asgi%2Capplication-level>
 - <https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/>
-
