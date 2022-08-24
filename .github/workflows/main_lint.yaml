@@ -1,8 +1,10 @@
 name: Lint function
 on:
   push:
-    branches: [main]
-    paths: [cloud-resume-challenge]
+    branches: 
+    - main
+    paths: 
+    - cloud-resume-challenge/**
 jobs:
   lint:
     runs-on: ubuntu-latest
